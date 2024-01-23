@@ -1,6 +1,6 @@
 ## Mini-Netflix
 
-This project is a mini version of Netflix built with Next.js and React.
+This project is a mini version of Netflix built with Next.js and React. A hosted version of this app can be found [Here](https://mini-netflix-mp.vercel.app/)
 
 ## Prerequisites
 
