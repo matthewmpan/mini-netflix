@@ -6,7 +6,7 @@ This project is a mini version of Netflix built with Next.js and React. A hosted
 
 Before you begin, ensure you have met the following requirements:
 
-* You have installed the latest version of [Node.js and npm](https://nodejs.org/en/download/). This project was developed with Node.js version 21.2.0.
+* You have installed Node.js version >= 18.17.0 [Node.js and npm](https://nodejs.org/en/download/).
 
 ## Setting Up the OMDb API Key
 
